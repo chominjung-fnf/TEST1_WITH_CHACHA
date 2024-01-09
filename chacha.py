@@ -1,2 +1,2 @@
 print('chacha & everyone love')
-print('EJ TEST')
+print('EJ TEST1')
