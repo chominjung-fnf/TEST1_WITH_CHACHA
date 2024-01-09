@@ -1,2 +1,1 @@
-print('chacha & everyone e')
-print('EJ TEST1')
+print('chacha & everyone lovelovelovelovelove')
